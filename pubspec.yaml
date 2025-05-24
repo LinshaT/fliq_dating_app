@@ -41,7 +41,7 @@ dependencies:
   japx: ^2.0.0
   pinput: ^2.3.0
   country_picker: ^2.0.27
-  shared_preferences: ^2.5.3
+  shared_preferences: ^2.2.2
   intl: ^0.20.2
 
 dev_dependencies:
