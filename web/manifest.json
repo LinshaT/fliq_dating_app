@@ -1,6 +1,6 @@
 {
-    "name": "fliq",
-    "short_name": "fliq",
+    "name": "fliq_dating_app",
+    "short_name": "fliq_dating_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
